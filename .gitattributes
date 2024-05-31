@@ -1,0 +1,12 @@
+* text=auto
+
+# Explicitly set the line endings for specific files
+*.js text eol=lf
+*.css text eol=lf
+*.html text eol=lf
+*.md text eol=lf
+
+# Handle binary files
+*.png binary
+*.jpg binary
+*.gif binary
